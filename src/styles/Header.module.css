@@ -1,0 +1,35 @@
+.header {
+	padding: 10px;
+	display: flex;
+}
+
+.titulo {
+	font-size: x-large;
+	color: darkgray;
+    font-weight: lighter;
+    margin: 0;
+}
+.titulo_div {
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-left: 0px;
+	margin-right: auto;
+}
+
+.boton_div {
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-right: 0px;
+	margin-left: auto;
+}
+
+.boton {
+	border: 1px solid transparent;
+	padding: auto;
+	font-size: 1em;
+	font-size: smaller;
+	font-family: inherit;
+	background-color: darkblue;
+	color: white;
+	cursor: pointer;
+}

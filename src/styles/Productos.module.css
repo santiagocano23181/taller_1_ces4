@@ -1,0 +1,8 @@
+.lista{
+    display: grid;
+    width: 100%;
+    padding: 5px;
+    overflow: hidden;
+    gap: 12px;
+    grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr));
+}

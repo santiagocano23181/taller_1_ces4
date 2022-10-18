@@ -1,0 +1,42 @@
+.panel {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.titulo {
+    font-size: xx-large;
+    font-style: unset;
+    margin-top: auto;
+    margin-bottom: auto;
+    color: darkgray;
+}
+
+.nombre{
+    margin-left: 0;
+    margin-right: auto;
+    text-transform: uppercase;
+}
+
+.precio{
+    margin-left: auto;
+    margin-right: 0;
+    color: darkgray;
+}
+
+.medio{
+    font-size: medium;
+    margin-top: auto;
+    margin-bottom: auto;
+    color: darkgray;
+}
+
+.lista {
+    margin: 0 auto;
+    width: 60%;
+}
+
+.resumen {
+    margin: 0 auto;
+    width: 30%;
+}

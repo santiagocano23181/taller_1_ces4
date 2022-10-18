@@ -1,0 +1,59 @@
+.tarjeta {
+	padding: 5px;
+	max-width: max-content;
+	display: flex;
+	background: #f3f3f3;
+}
+
+.info {
+	width: fit-content;
+	display: grid;
+	flex-flow: column;
+	min-height: fit-content;
+	margin: 0 5px;
+}
+
+.nombre {
+	text-justify: auto;
+	font-size: large;
+	margin: 0;
+	text-transform: uppercase;
+}
+
+.precio {
+	text-justify: auto;
+	font-size: medium;
+	margin: 0;
+}
+
+.descripcion {
+	font-size: small;
+	color: gray;
+}
+
+.carrito {
+	padding: 5px;
+	width: 100%;
+	display: flex;
+	background: white;
+}
+
+.cantidad{
+	width: 100px;
+	height: 30px;
+	float: right;
+	margin-left: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-right: 0;
+}
+
+.numero{
+	width: 100px;
+	height: 30px;
+	float: right;
+	margin-left: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-right: 0;
+}
